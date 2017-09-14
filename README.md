@@ -10,9 +10,9 @@ Still working?
 
 So essentially you can put any markdown here.. and it will be read in the main web page
 
-´´´sql
+```sql
 create table as a
 where x=z
 join on table as a
 from
-´´´
+````
