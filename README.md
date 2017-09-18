@@ -16,3 +16,8 @@ where x=z
 join on table as a
 from
 ````
+
+
+|test|test|
+|:--:|:--:|
+|a|b|
